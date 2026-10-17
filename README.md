@@ -9,10 +9,6 @@ Build a physics-informed predictive maintenance system that:
 - Generates realistic synthetic sensor data
 - Predicts Remaining Useful Life (RUL) using ML
 
-## Status
-
-🚧 Work in Progress – Week 1: Project Setup
-
 ## Tech Stack
 
 - Python 3.14.7
